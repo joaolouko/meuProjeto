@@ -18,3 +18,7 @@ body{
 .nono{
     color: blueviolet;
 }
+
+.div:hover{
+    color: brown;
+}
